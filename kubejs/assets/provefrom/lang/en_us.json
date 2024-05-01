@@ -1,3 +1,4 @@
 {
-    "tooltip.enchdesc.hold_shift": "§6Hold down §eShift§6 to see the enchantment description"
+    "tooltip.enchdesc.hold_shift": "§6Hold down §eShift§6 to see the enchantment description",
+    "tooltip.enchdesc.embellish": " ◊ %s: %s"
 }
