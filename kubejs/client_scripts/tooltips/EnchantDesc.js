@@ -5,7 +5,7 @@ ItemEvents.tooltip(event => {
     event.addAdvanced(Ingredient.all, (item, advanced, text) => {
         let enchant;
         if (item.id == "minecraft:enchanted_book") {
-            enchant = enchantedBook.getEnchantments(item)
+            enchant = item.getEnchantmentTags()
         }
         else if (item.isEnchanted()) {
             enchant = item.getEnchantmentTags()
