@@ -1,0 +1,13 @@
+filename = 'just_a_bit_more_enchantments-1.4.7 1.20.1.jar'
+name = 'Just a lot more enchantments'
+side = 'both'
+
+[download]
+hash = '0d1e07a9bd33a3b3a4020334d08edaa3599104dd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5286794
+project-id = 865111

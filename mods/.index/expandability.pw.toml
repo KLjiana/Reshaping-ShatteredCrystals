@@ -1,0 +1,13 @@
+filename = 'expandability-9.0.3.jar'
+name = 'ExpandAbility'
+side = 'both'
+
+[download]
+hash = '7f7448feee27c5278814fc1be10d156f3c662fe1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5276243
+project-id = 465066

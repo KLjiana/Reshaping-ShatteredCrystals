@@ -1,0 +1,26 @@
+{
+    "tooltip.enchdesc.hold_shift": "§6按住§eShift§6查看附魔描述",
+    "tooltip.enchdesc.embellish": " ◊ %s: %s",
+
+    "enchantment.dungeonsenchantments.thundering.desc": "攻击会给目标带来闪电效果。",
+    "enchantment.dungeonsenchantments.freezing.desc": "攻击会减慢目标的移动速度。",
+    "enchantment.dungeonsenchantments.fuse_shot.desc": "弓箭可以射出爆炸箭矢。",
+    "enchantment.dungeonsenchantments.deflect.desc": "箭矢可能会反弹回射手。",
+    "enchantment.dungeonsenchantments.guarding_strike.desc": "击败敌人后会暂时提高防御力。",
+    "enchantment.dungeonsenchantments.leeching.desc": "击败敌人会为使用者恢复生命值。",
+    "enchantment.dungeonsenchantments.rush.desc": "使用者受伤后会暂时提高移动速度。",
+    "enchantment.dungeonsenchantments.weakening.desc": "攻击会暂时削弱敌人。",
+    "enchantment.dungeonsenchantments.cowardice.desc": "使用者生命值全满时攻击会造成更多伤害。",
+    "enchantment.dungeonsenchantments.illagers_bane.desc": "对亡灵守卫造成更多伤害。",
+    "enchantment.dungeonsenchantments.radiance.desc": "治疗周围的玩家。",
+    "enchantment.dungeonsenchantments.radiance_shot.desc": "箭矢可以治疗周围的玩家。",
+    "enchantment.dungeonsenchantments.void_strike.desc": "连续攻击会造成更多伤害。",
+    "enchantment.dungeonsenchantments.pain_cycle.desc": "攻击会伤害使用者。每第五次攻击都会造成巨大伤害。",
+    "enchantment.dungeonsenchantments.ambush.desc": "对背对你的敌人造成额外伤害。",
+    "enchantment.dungeonsenchantments.exploding.desc": "攻击同时会产生爆炸效果。",
+    "enchantment.dungeonsenchantments.recycler.desc": "被射击时有时会产生箭矢。",
+
+    "enchantment.grapplemod.wallrunenchantment.desc": "允许使用者在墙壁上奔跑。",
+    "enchantment.grapplemod.doublejumpenchantment.desc": "允许使用者进行二段跳跃。",
+    "enchantment.grapplemod.slidingenchantment.desc": "允许使用者利用积累的冲刺动量来滑行。"
+}

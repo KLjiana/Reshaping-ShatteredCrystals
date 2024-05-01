@@ -1,0 +1,13 @@
+filename = 'levelhearts-1.20.1-2.4.0.jar'
+name = 'LevelHearts'
+side = 'both'
+
+[download]
+hash = 'd8e74b3ba53ec6062526ff0b113571f56ff462ed'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4622415
+project-id = 273640

@@ -1,0 +1,13 @@
+filename = 'AnvilNeverTooExpensive-1.20.1-1.1.jar'
+name = 'Anvil Never Too Expensive'
+side = 'both'
+
+[download]
+hash = '099ac070195ec98a5bf2c7c5aef88f00a9fd2c12'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4681380
+project-id = 670282

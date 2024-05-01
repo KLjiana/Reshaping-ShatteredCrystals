@@ -1,0 +1,13 @@
+filename = 'celestial_core-1.3.4.jar'
+name = 'Celestial Core'
+side = 'both'
+
+[download]
+hash = '3d08e0e02bd9b9d0732e93d7b1f3a5fb953ea8c8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5259540
+project-id = 988783

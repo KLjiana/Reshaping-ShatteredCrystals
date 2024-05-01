@@ -1,0 +1,13 @@
+filename = 'GatewaysToEternity-1.20.1-4.2.4.jar'
+name = 'Gateways to Eternity'
+side = 'both'
+
+[download]
+hash = 'cf5eab04326d49037d0399a4b92da1719c9a2492'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5188310
+project-id = 417802

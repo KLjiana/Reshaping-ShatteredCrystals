@@ -1,0 +1,121 @@
+
+["Configs for LemonKindom: Artifacts"]
+	#Base Attack damage for Dragon's Tear
+	"Dragon's Tear" = 3
+	#Attack damage bonus for Dragon's Tear pre-level
+	"Dragon's Tear Boost" = 4
+	#Base Attack damage for Dark Radiance
+	"Dark Radiance" = 2
+	#Attack damage bonus for Dark Radiance pre-level
+	"Dark Radiance Boost" = 3
+	#Base Attack damage for Soul Radiance
+	"Soul Radiance" = 2
+	#Attack damage bonus for Soul Radiance pre-level
+	"Soul Radiance Boost" = 3
+	#Base Attack damage for Meat Cleaver
+	"Meat Cleaver" = 9
+	#Attack damage bonus for Meat Cleaver pre-level
+	"Meat Cleaver Boost" = 6
+	#Base Attack damage for Giant Goat Horn
+	"Giant Goat Horn" = 11
+	#Attack damage bonus for Giant Goat Horn pre-level
+	"Giant Goat Horn Boost" = 6
+	#Base Attack damage for Infected Sword
+	"Infected Sword" = 3
+	#Attack damage bonus for Infected Sword pre-level
+	"Infected Sword Boost" = 4
+	#Base Attack damage for Knight's Honor
+	"Knight's Honor" = 4
+	#Attack damage bonus for Knight's Honor pre-level
+	"Knight's Honor Boost" = 5
+	#Base Attack damage for Salmon Sword
+	"Salmon Sword" = 2
+	#Attack damage bonus for Salmon Sword pre-level
+	"Salmon Sword Boost" = 4
+	#Base Attack damage for Totem Sword
+	"Totem Sword" = 2
+	#Attack damage bonus for Totem Sword pre-level
+	"Totem Sword Boost" = 4
+	#Base Attack damage for Ripple Round Blade Sword
+	"Ripple Round Blade Sword" = 5
+	#Attack damage bonus for Ripple Round Blade Sword pre-level
+	"Ripple Round Blade Sword Boost" = 4
+	#Base Attack damage for Crystal Ritual Sword
+	"Crystal Ritual Sword" = 4
+	#Attack damage bonus for Crystal Ritual Sword pre-level
+	"Crystal Ritual Sword Boost" = 4
+	#Base Attack damage for Spiked Gauntlet
+	"Spiked Gauntlet" = 2
+	#Attack damage bonus for Spiked Gauntlet pre-level
+	"Spiked Gauntlet Boost" = 4
+	#Base Attack damage for Lava Sword
+	"Lava Sword" = 2
+	#Attack damage bonus for Lava Sword pre-level
+	"Lava Sword Boost" = 4
+	#Base Attack damage for Witherer
+	Witherer = 2
+	#Attack damage bonus for Witherer pre-level
+	"Witherer Boost" = 4
+	#Base Attack damage for King's Gift
+	"King's Gift" = 5
+	#Attack damage bonus for King's Gift pre-level
+	"King's Gift Boost" = 4
+	#Base Attack damage for Storm Axe
+	"Storm Axe" = 5
+	#Attack damage bonus for Storm Axe pre-level
+	"Storm Axe Boost" = 4
+	#Base Attack damage for Giant Roasted Chicken
+	"Giant Roasted Chicken" = 10
+	#Attack damage bonus for Giant Roasted Chicken pre-level
+	"Giant Roasted Chicken Boost" = 5
+	#Base Attack damage for Gilded Spear
+	"Gilded Spear" = 3
+	#Attack damage bonus for Gilded Spear pre-level
+	"Gilded Spear Boost" = 4
+	#Base Attack damage for Bamboo Sword
+	"Bamboo Sword" = 2
+	#Attack damage bonus for Bamboo Sword pre-level
+	"Bamboo Sword Boost" = 3
+	#Base Attack damage for Lantern Sword
+	"Lantern Sword" = 3
+	#Attack damage bonus for Lantern Sword pre-level
+	"Lantern Sword Boost" = 4
+	#Base Attack damage for Circular Saw Sword
+	"Circular Saw Sword" = 6
+	#Attack damage bonus for Circular Saw Sword pre-level
+	"Circular Saw Sword Boost" = 4
+	#Base Attack damage for Living Wood Branch
+	"Living Wood Branch" = 3
+	#Attack damage bonus for Living Wood Branch pre-level
+	"Living Wood Branch Boost" = 4
+	#Base Attack damage for Mysterious Recurve Blade
+	"Mysterious Recurve Blade" = 5
+	#Attack damage bonus for Mysterious Recurve Blade pre-level
+	"Mysterious Recurve Blade Boost" = 3
+	#Base Attack damage for Great Broom
+	"Great Broom" = 6
+	#Attack damage bonus for Great Broom pre-level
+	"Great Broom Boost" = 6
+	#Base Attack damage for Healing Wand
+	"Healing Wand" = 2
+	#Attack damage bonus for Healing Wand pre-level
+	"Healing Wand Boost" = 2
+	#Base Attack damage for Bloodline Blade
+	"Bloodline Blade" = 3
+	#Attack damage bonus for Bloodline Blade pre-level
+	"Bloodline Blade Boost" = 4
+	#Base Attack damage for Iron Sickle
+	"Iron Sickle" = 4
+	#Base Attack damage for Iron Blade
+	"Iron Blade" = 2
+	#Base Attack damage for Rapier
+	Rapier = 1
+	#Base Attack damage for Spear
+	Spear = 4
+	#Attack damage bonus from Broken Star Fragment upgrade pre-level
+	"Broken Star Fragment" = 1
+	#Attack damage bonus from Broken Star Long Fragment upgrade pre-level
+	"Broken Star Long Fragment" = 3
+	#Attack damage bonus from Large Broken Star upgrade pre-level
+	"Large Broken Star" = 2
+

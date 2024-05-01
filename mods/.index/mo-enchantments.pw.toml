@@ -1,0 +1,13 @@
+filename = "Mo'Enchantments-1.20.1-1.9.1.jar"
+name = "Mo' Enchantments"
+side = 'both'
+
+[download]
+hash = '8376212419d3f4eefbee1ff02d3b4f90ee2dfd21'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5249046
+project-id = 621282

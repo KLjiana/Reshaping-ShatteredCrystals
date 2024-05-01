@@ -1,0 +1,13 @@
+filename = 'ImprovableSkills-1.20.1-20.1.6.jar'
+name = 'Improvable Skills 3'
+side = 'both'
+
+[download]
+hash = 'edd2f6a23fa7662673481ff55c90028c99d3d790'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4617687
+project-id = 252902

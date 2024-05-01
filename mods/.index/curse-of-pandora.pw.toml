@@ -1,0 +1,13 @@
+filename = 'curseofpandora-2.4.15.jar'
+name = 'Curse of Pandora'
+side = 'both'
+
+[download]
+hash = '93a444792bfe78da6f121609b8d7972c02c4ee74'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5220428
+project-id = 968311

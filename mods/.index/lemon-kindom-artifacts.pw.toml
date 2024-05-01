@@ -1,0 +1,13 @@
+filename = 'lkartifacts-1.06-1.20.1.jar'
+name = 'Lemon Kindom: Artifacts'
+side = 'both'
+
+[download]
+hash = '3efede8ffda7b3f076e7488b250727b3641e8097'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5042369
+project-id = 946438

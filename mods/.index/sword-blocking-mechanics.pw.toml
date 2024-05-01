@@ -1,0 +1,13 @@
+filename = 'SwordBlockingMechanics-v8.0.1-1.20.1-Forge.jar'
+name = 'Sword Blocking Mechanics'
+side = 'both'
+
+[download]
+hash = '0760230ebafc04499ca992f35918959924de7863'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5076058
+project-id = 969424

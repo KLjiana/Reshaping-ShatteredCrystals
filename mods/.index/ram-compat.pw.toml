@@ -1,0 +1,13 @@
+filename = 'ramcompat-1.20.1-0.1.3.jar'
+name = "Relics: Alex's Mobs Compat"
+side = 'both'
+
+[download]
+hash = '0902e749faee5b7522681feea75bd6cefd8253ca'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5272328
+project-id = 944203

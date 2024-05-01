@@ -1,0 +1,13 @@
+filename = 'TinySkeletons-v8.0.1-1.20.1-Forge.jar'
+name = 'Tiny Skeletons [Forge & Fabric]'
+side = 'both'
+
+[download]
+hash = 'aa27ac3af67afd192f789adc4d78e752a68d6272'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4708826
+project-id = 548647

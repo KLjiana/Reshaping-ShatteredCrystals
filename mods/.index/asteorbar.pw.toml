@@ -1,0 +1,13 @@
+filename = 'asteorbar-forge-1.20.1-1.4.2.jar'
+name = 'AsteorBar'
+side = 'both'
+
+[download]
+hash = '67994ebd29990f053682c949efe69b7c69351d1d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5257622
+project-id = 959237

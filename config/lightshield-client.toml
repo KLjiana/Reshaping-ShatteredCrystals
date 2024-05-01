@@ -1,0 +1,6 @@
+
+[ShieldHudOverlay]
+	#Enable Shield Overlay
+	#启动护盾渲染
+	EnableShieldOverlay = true
+

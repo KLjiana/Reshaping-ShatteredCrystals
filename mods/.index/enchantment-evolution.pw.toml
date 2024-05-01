@@ -1,0 +1,13 @@
+filename = 'enchantment-evolution-1.20.1-1.0.1.jar'
+name = 'Enchantment Evolution'
+side = 'both'
+
+[download]
+hash = '5174ff29e1ad4bf1e8bb396a66ac80caee966ae6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4801543
+project-id = 910052
