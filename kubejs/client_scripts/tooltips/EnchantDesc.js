@@ -2,7 +2,6 @@
 
 ItemEvents.tooltip((event) => {
   const ENCHANTED_BOOK = Ingredient.of("minecraft:enchanted_book");
-
   event.addAdvanced(Ingredient.all, (item, advanced, text) => {
     if (!ENCHANTED_BOOK.test(item) && !item.enchanted) return;
     const { enchantments } = item;
