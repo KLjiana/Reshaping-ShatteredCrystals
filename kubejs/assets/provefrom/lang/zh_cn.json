@@ -1,5 +1,5 @@
 {
-    "tooltip.enchdesc.hold_shift": "§6按住§eShift§6查看附魔描述",
+    "tooltip.enchdesc.hold": "§6按住§eShift§6查看附魔描述",
     "tooltip.enchdesc.embellish": " ◊ %s: %s",
 
     "enchantment.dungeonsenchantments.thundering.desc": "攻击会给目标带来闪电效果。",
