@@ -1,22 +1,21 @@
 //为附魔书添加类似于Enchantment Descriptions的效果（但是有shift隐藏😋
 
-ItemEvents.tooltip(event => {
-    event.addAdvanced(Ingredient.all, (item, advanced, text) => {
-        let enchant;
-        if (item.id == "minecraft:enchanted_book"||item.isEnchanted()) {
-            enchant = item.getEnchantments()
-        }
-        else { return }
-        if (event.shift) {
-            enchant.forEach(tags => {
-                let name = `enchantment.${tags.replace(':', '.')}`
-                text.add(Text.translate(
-                    "tooltip.enchdesc.embellish",
-                    Text.translate(name),
-                    Text.translate(`${name}.desc`)
-                ).darkGray())
-            })
-        }
-        else { text.add(Text.translate("tooltip.enchdesc.hold_shift")) }
-    })
-})
+ItemEvents.tooltip((event) => {
+  const EMBELLISH_TEXT = (name, description) => Text.translate("tooltip.enchdesc.embellish", name, description);
+  const HOLD_SHIFT_TEXT = Text.translate("tooltip.enchdesc.hold");
+  const ENCHANTED_BOOK = Ingredient.of("minecraft:enchanted_book");
+
+  event.addAdvanced(Ingredient.all, (item, advanced, text) => {
+    if (!ENCHANTED_BOOK.test(item) && !item.enchanted) return;
+    const { enchantments } = item;
+
+    if (event.shift) {
+      enchantments.forEach((enchantment) => {
+        let descriptionId = `enchantment.${enchantment.replace(":", ".")}`;
+        text.add(EMBELLISH_TEXT(Text.translate(descriptionId), Text.translate(`${descriptionId}.desc`).darkGray()));
+      });
+    } else {
+      text.add(HOLD_SHIFT_TEXT);
+    }
+  });
+});
