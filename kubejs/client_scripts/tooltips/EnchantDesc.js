@@ -1,4 +1,4 @@
-/为附魔书添加类似于Enchantment Descriptions的效果（但是有shift隐藏😋
+//为附魔书添加类似于Enchantment Descriptions的效果（但是有shift隐藏😋
 
 let holdTime
 let holdShift = false
