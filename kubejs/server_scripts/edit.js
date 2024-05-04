@@ -1,5 +1,7 @@
 // packmode: debug
 // 只要我想，随时写😋
 ItemEvents.rightClicked(event => {
-    event.server.tell('0')
+    const{enchantments}=event.item
+    event.server.tell(enchantments.size())
+    event.server.tell(enchantments.entrySet()[0].getKey())
 })

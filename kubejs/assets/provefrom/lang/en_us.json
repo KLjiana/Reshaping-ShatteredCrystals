@@ -1,4 +1,6 @@
 {
-    "tooltip.enchdesc.hold_shift": "§6Hold down §eShift§6 to see the enchantment description",
-    "tooltip.enchdesc.embellish": " ◊ %s: %s"
+    "tooltip.enchantdesc.hold_shift": "§6Press and hold §eShift§6 to expand the enchantment description",
+    "tooltip.enchantdesc.unfold": "§8Short press Shift to switch description, long press to collapse",
+    "tooltip.enchantdesc.embellish": " ◊ %s: %s"
+    
 }
