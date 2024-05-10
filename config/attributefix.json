@@ -220,17 +220,6 @@
         "value": 1024
       }
     },
-    "l2damagetracker:damage_absorption": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 10000,
-        "value": 10000
-      }
-    },
     "x_player_info:attribute.name.extend.attack.damage_percentage_bonus": {
       "enabled": false,
       "min": {
@@ -262,6 +251,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "l2damagetracker:damage_absorption": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
       }
     },
     "celestial_core:arrow_speed": {
@@ -814,17 +814,6 @@
         "value": 1000000
       }
     },
-    "celestial_core:regen_rate": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 64,
-        "value": 64
-      }
-    },
     "x_player_info:attribute.name.extend.attack.damage_percentage_healing": {
       "enabled": false,
       "min": {
@@ -834,6 +823,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "celestial_core:regen_rate": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 64,
+        "value": 64
       }
     },
     "attributeslib:arrow_damage": {
