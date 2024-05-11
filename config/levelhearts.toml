@@ -5,16 +5,16 @@
 	#When enabled, the player's health will get reset back to default on death. Overrides punish amount.
 	Hardcore = false
 	#When disabled, LevelHearts' items' functionality will be disabled.
-	Items = true
+	Items = false
 	#When disabled, LevelHearts will not spawn heart pieces and heart containers in chests around the world.
-	Loot = true
+	Loot = false
 	#When enabled, upon any damage to the player, the player will immediately die. "One-Hit Knockout"
 	Ohko = false
 
 [Health]
 	#The amount of health a user will have in a new game or after death.
 	#Range: 1 ~ 200
-	"Default Health" = 20
+	"Default Health" = 30
 	#The minimum amount of health LevelHearts will allow a user to be punished to.
 	#Range: 2 ~ 20
 	"Minimum Health" = 2

@@ -1,1 +1,21 @@
-[]
+[
+    {
+        "mod": [
+            "spore",
+            "mutantmonsters"
+        ],
+        "dimension": "lostcities:lostcity",
+        "result": "allow"
+    },
+    {
+        "dimension": "lostcities:lostcity",
+        "result": "deny"
+    },
+    {
+        "mod": [
+            "spore",
+            "mutantmonsters"
+        ],
+        "result": "deny"
+    }
+]
