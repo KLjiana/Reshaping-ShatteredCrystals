@@ -1,7 +1,9 @@
 {
-    "tooltip.enchantdesc.hold": "§6长按§eShift§6展开附魔描述",
-    "tooltip.enchantdesc.unfold": "§8短按Shift切换描述，长按收起",
-    "tooltip.enchantdesc.embellish": " ◊ %s: %s",
+    "item.provefrom.xp_game_button": "经验游戏按钮",
+
+    "tooltip.provefrom.hold": "§6长按§eShift§6展开附魔描述",
+    "tooltip.provefrom.unfold": "§8短按Shift切换描述，长按收起",
+    "tooltip.provefrom.embellish": " ◊ %s: %s",
 
     "enchantment.dungeonsenchantments.thundering.desc": "攻击会给目标带来闪电效果。",
     "enchantment.dungeonsenchantments.freezing.desc": "攻击会减慢目标的移动速度。",

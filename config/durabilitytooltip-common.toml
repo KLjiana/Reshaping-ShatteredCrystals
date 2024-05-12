@@ -1,7 +1,7 @@
 [Client]
     # What should be the style of the tooltip? 'numbers' means 'Durability: 30 / 100', 'text' means 'Durability: pristine/slight damaged/nearly broken', 'bar' means 'Durability: [?每??每??每??每＊?每＊?每＊?每＊?每＊?每＊?每＊]'
     # Allowed values: BAR, NUMBERS, TEXT - Default: NUMBERS
-    tooltipStyle = "NUMBERS"
+    tooltipStyle = "BAR"
 
     # Should the tooltip include the 'Durability:' hint?
     # Allowed values: true, false - Default: true
