@@ -1,6 +1,6 @@
 let wearElytra = false
 let quality = "minecraft:iron_"
-const firearms = ['64x pointblank:ammo9mm',"pointblank:glock17", '64x pointblank:ammo9mm']
+const firearms = ["pointblank:glock17", '64x pointblank:ammo9mm', '64x pointblank:ammo9mm']
 ItemEvents.rightClicked(event => {
     const { player, item, server } = event
     const playerName = player.name.getString()
@@ -9,9 +9,11 @@ ItemEvents.rightClicked(event => {
         item.count--
         server.runCommandSilent(`/execute in lostcities:lostcity run teleport ${playerName} ~ 160 ~`)
         player.setChestArmorItem("minecraft:elytra")
-        firearms.forEach(fire => player.inventory.add(fire))
         //console.info(player.armorSlots)
-        wearElytra = true
+        event.server.schedule(100, () => {
+            firearms.forEach(fire => player.inventory.add(fire))
+            wearElytra = true
+        })
     }
 })
 PlayerEvents.tick(event => {
