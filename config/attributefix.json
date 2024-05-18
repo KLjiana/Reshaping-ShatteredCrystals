@@ -506,17 +506,6 @@
         "value": 100
       }
     },
-    "x_player_info:attribute.name.extend.attack.crit_rate": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
     "x_player_info:attribute.name.extend.jump.extra_count": {
       "enabled": false,
       "min": {
@@ -526,6 +515,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "x_player_info:attribute.name.extend.attack.crit_rate": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
       }
     },
     "forge:nametag_distance": {
