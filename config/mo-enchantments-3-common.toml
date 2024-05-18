@@ -57,3 +57,13 @@
 	#Should this enchantment be found on the Enchanting Table? 
 	"Find on Enchanting Table" = true
 
+[Padding]
+	#Determines the amount of armor points each level of Padding should grant
+	"Armor Points per Level" = 1.0
+	#Determines the damage reduction percentage that each level of Padding should grant
+	"Kinetic reduction Percentage" = 20.0
+	#Should Shove exist?
+	"Should Padding exist?" = true
+	#Should this enchantment be found on the Enchanting Table? 
+	"Find on Enchanting Table" = false
+

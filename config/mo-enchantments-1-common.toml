@@ -60,6 +60,8 @@
 	"Allow Rebirth" = false
 	#Should this enchantment be found on the Enchanting Table?
 	"Find on Enchanting Table" = false
+	#Determines whether Rebirth should take a totem from the inventory and save you from death (true) or  Destroy the shield compeletely to save you from death (false)
+	"Use Totems" = false
 
 [Stunning]
 	#How many ticks should Stunning slow for? (set to 0 to disable its slow effect)
@@ -130,12 +132,14 @@
 ["Pain Power"]
 	#Determines the HP percentage at which Pain Power should apply its effects
 	"Low Health Threshold" = 40.0
-	#Determines wether Pain Power should apply speed
-	"Should apply Speed" = true
-	#Determines wether Pain power should apply  resistance
-	"Should apply Resistance" = true
 	#Should Pain Power exist?
 	"Allow Pain Power" = true
 	#Should this enchantment be found on the Enchanting Table?
 	"Find on Enchanting Table" = true
+	#Determines the modifier to the speed increase that this enchantment should grant (set to 0 to disable)
+	"Speed Modifier" = 0.5
+	#Determines the modifier to the resistance increase that this enchantment should grant (set to 0 to disable)
+	"Resistance Modifier" = 1.0
+	#Determines the modifier to the damage increase that this enchantment should grant (set to 0 to disable)
+	"Damage Modifier" = 0.0
 

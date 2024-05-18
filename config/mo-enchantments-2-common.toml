@@ -110,6 +110,8 @@
 	"Incompatible with Spikes" = true
 	#Should this enchantment be found on the Enchanting Table?
 	"Find on Enchanting Table" = true
+	#Determines whether Reflection should also work on tridents (Might cause some lag)
+	"Reflect Tridents" = false
 
 [Acceleration]
 	#Determines the initial divider of the distance to determine the increased damage of Acceleration. This number will be decreased based on the level
@@ -192,4 +194,6 @@
 	"Incompatible with Respiration" = false
 	#Should this enchantment be found on the Enchanting Table?
 	"Find on Enchanting Table" = false
+	#Determines the way Sensing should act: whether it should grant night vision (true) or create light around the user (false)
+	"Sensing Mode" = false
 
