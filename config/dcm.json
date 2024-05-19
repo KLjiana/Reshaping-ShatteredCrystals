@@ -42,8 +42,8 @@
   },
   "gui": {
     "walletEnabled": true,
-    "walletGuiX": 25,
-    "walletGuiY": 25,
+    "walletGuiPos": "MIDDLE",
+    "walletGuiAxis": "LEFT",
     "walletMaxSlotSize": 999
   }
 }
