@@ -8,7 +8,7 @@ ItemEvents.rightClicked(event => {
 
     if (item == "provefrom:xp_game_button") {
         item.count--
-        server.runCommandSilent(`/execute in lostcities:lostcity run teleport ${playerName} ~ 240 ~`)
+        server.runCommandSilent(`/execute in lostcities:lostcity run teleport ${playerName} ~ 250 ~`)
         player.setChestArmorItem("minecraft:elytra")
         event.server.schedule(100, () => {
             firearms.forEach(fire => player.inventory.add(fire))
