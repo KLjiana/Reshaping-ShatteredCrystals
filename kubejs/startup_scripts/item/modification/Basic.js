@@ -1,5 +1,5 @@
 ItemEvents.modification(event => {
-    event.modify(`#newprovefrom:ammo`, item => {
+    event.modify('pointblank:ammocreative', item => {
         item.maxStackSize = 999
         item.fireResistant = true
     })

@@ -16,4 +16,7 @@ ServerEvents.tags('item', event => {
     event.add('newprovefrom:ammo', 'pointblank:ammo50bmg')
     event.add('newprovefrom:ammo', 'pointblank:ammo12gauge')
     event.add('newprovefrom:ammo', 'pointblank:grenade40mm')
+    event.add('newprovefrom:ammo', 'pointblank:smaw_rocket')
+    event.add('newprovefrom:ammo', 'pointblank:at4_rocket')
+    event.add('newprovefrom:ammo', 'pointblank:javelin_rocket')
 })
