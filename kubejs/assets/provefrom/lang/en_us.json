@@ -1,7 +1,0 @@
-{
-    "item.provefrom.xp_game_button": "Experience Game button",
-
-    "tooltip.provefrom.hold": "§6Press and hold §eShift§6 to expand the enchantment description",
-    "tooltip.provefrom.unfold": "§8Short press Shift to switch description, long press to collapse",
-    "tooltip.provefrom.embellish": " ◊ %s: %s"
-}
