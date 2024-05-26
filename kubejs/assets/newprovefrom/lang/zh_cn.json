@@ -1,5 +1,7 @@
 {
     "item.newprovefrom.xp_game_button": "经验游戏按钮",
+    "item.newprovefrom.broadsword": "宽刃大剑",
+    "item.newprovefrom.longsplit": "长柄裂剑",
 
     "tooltip.newprovefrom.hold": "§6长按§eShift§6展开附魔描述",
     "tooltip.newprovefrom.unfold": "§8短按Shift切换描述，长按收起",
