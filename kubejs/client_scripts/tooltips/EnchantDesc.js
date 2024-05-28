@@ -24,6 +24,7 @@ ItemEvents.tooltip(event => {
       } else if (time - holdTime >= 8) {
         if (!isShortPressAdded) isShortPressAdded = true
         else isShortPressAdded = false
+        descLine = 0
         //console.info('长按')
       }
       holdShift = false
