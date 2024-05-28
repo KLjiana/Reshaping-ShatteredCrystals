@@ -1,0 +1,13 @@
+{
+    "biggerstacks.exact.count": "准确数量: %s",
+    "biggerstacks.enchbox.alt": "附魔书堆叠限制",
+    "biggerstacks.potsbox.alt": "药水堆叠限制",
+    "biggerstacks.normalbox.alt": "普通物品堆叠限制",
+    "biggerstacks.enchbox.label": "附魔书",
+    "biggerstacks.potsbox.label": "药水",
+    "biggerstacks.normalbox.label": "普通物品",
+    "biggerstacks.config.title": "配置堆叠限制",
+    "biggerstacks.player.expected": "命令必须由玩家执行",
+    "biggerstacks.overwrite.warn": "这将覆盖您的自定义规则文件!",
+    "biggerstacks.save": "保存"
+}
