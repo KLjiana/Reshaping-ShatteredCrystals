@@ -13,14 +13,12 @@ StartupEvents.registry("item", event => {
         .attackDamageBaseline(8-3)
         .speedBaseline(1.3-4)
         .maxDamage(1200)
-        .texture("newprovefrom:item/broadsword")
-        .translationKey("item.newprovefrom.broadsword")
+        .translationKey("pitem.newprovefrom.broadsword")
 
     event
         .create("newprovefrom:longsplit", "sword")
         .attackDamageBaseline(12-3)
         .speedBaseline(1-4)
-        .maxDamage(1200)
-        .texture("newprovefrom:item/longsplit")
+        .maxDamage(1200) 
         .translationKey("item.newprovefrom.longsplit")
 })
