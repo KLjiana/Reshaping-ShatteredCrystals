@@ -1,0 +1,9 @@
+{
+    "item.rsc.xp_game_button": "经验游戏按钮",
+    "item.rsc.broadsword": "宽刃大剑",
+    "item.rsc.longsplit": "长柄裂剑",
+
+    "tooltip.rsc.hold": "§6长按§eShift§6展开附魔描述",
+    "tooltip.rsc.unfold": "§8短按Shift切换描述，长按收起",
+    "tooltip.rsc.embellish": " ◊ %s: %s"
+}

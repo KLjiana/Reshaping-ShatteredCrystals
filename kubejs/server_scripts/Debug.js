@@ -14,7 +14,7 @@ portalTime.accessible = true; // 设置访问权限
 // 一键获取箱子里的物品，快速打tag）
 PlayerEvents.chestClosed(event => {
     event.inventory.allItems.forEach(item => {
-        console.info(`event.add('newprovefrom:ammo',${item.toItemString()})`)
+        console.info(`event.add('rsc:ammo',${item.toItemString()})`)
     })
     event.server.tell('tag over!')
     console.log(portalTime.get(event.entity)) // 传入Entity实例以获取该实例的portalTime字段值

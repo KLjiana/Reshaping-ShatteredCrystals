@@ -1,0 +1,9 @@
+{
+    "item.rsc.xp_game_button": "Experience Game button",
+    "item.rsc.broadsword": "Broadsword",
+    "item.rsc.longsplit": "Longsplit",
+
+    "tooltip.rsc.hold": "§6Press and hold §eShift§6 to expand the enchantment description",
+    "tooltip.rsc.unfold": "§8Short press Shift to switch description, long press to collapse",
+    "tooltip.rsc.embellish": " ◊ %s: %s"
+}

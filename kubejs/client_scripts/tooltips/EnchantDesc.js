@@ -33,11 +33,11 @@ ItemEvents.tooltip(event => {
     if (isShortPressAdded) {
       let descriptionId = `enchantment.${enchantments.entrySet()[descLine].getKey().replace(":", ".")}`
       text.add(Text.translate(
-        "tooltip.newprovefrom.embellish",
+        "tooltip.rsc.embellish",
         Text.translate(descriptionId),
         Text.translate(`${descriptionId}.desc`)
       ).darkGray())
-      text.add(Text.translate("tooltip.newprovefrom.unfold"))
-    } else text.add(Text.translate("tooltip.newprovefrom.hold"))
+      text.add(Text.translate("tooltip.rsc.unfold"))
+    } else text.add(Text.translate("tooltip.rsc.hold"))
   })
 })
