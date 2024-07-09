@@ -1,19 +1,6 @@
 [
     {
-        "mod": [
-            "spore"
-        ],
-        "dimension": "lostcities:lostcity",
-        "result": "allow"
-    },
-    {
-        "dimension": "lostcities:lostcity",
-        "result": "deny"
-    },
-    {
-        "mod": [
-            "spore"
-        ],
+        "mob": "minecraft:bat",
         "result": "deny"
     }
 ]

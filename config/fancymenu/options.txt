@@ -24,11 +24,11 @@ B:game_intro_fade_out = 'true';
 
 ##[window]
 
-B:show_custom_window_icon = 'false';
-S:custom_window_icon_macos = '';
-S:custom_window_icon_32 = '';
+B:show_custom_window_icon = 'true';
+S:custom_window_icon_macos = '/config/fancymenu/assets/icon.icns';
+S:custom_window_icon_32 = '/config/fancymenu/assets/icon.png';
 S:custom_window_title = '重塑：结晶破碎——篝火和鱼作伴，生活三两而已。';
-S:custom_window_icon_16 = '';
+S:custom_window_icon_16 = '/config/fancymenu/assets/icon16x.png';
 
 
 ##[multiplayer_screen]
