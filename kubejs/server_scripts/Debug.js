@@ -18,4 +18,5 @@ PlayerEvents.chestClosed(event => {
     })
     event.server.tell('tag over!')
     console.log(portalTime.get(event.entity)) // 传入Entity实例以获取该实例的portalTime字段值
-})
+}
+)
