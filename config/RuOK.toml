@@ -1,6 +1,6 @@
 AutoQuality = false
-maxEntityEntities = 128
-entitiesDistance = 64
+maxEntityEntities = 512
+entitiesDistance = 128
 QualityModes = "NORMAL"
 RenderWeather = "NORMAL"
 RenderTNTExplosions = true
